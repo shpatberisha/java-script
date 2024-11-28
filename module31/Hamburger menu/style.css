@@ -1,0 +1,29 @@
+nav{
+    background-color: blue;
+    position: relative;
+    overflow: hidden;
+}
+
+nav #links{
+    display: none;
+}
+
+nav a, button{
+    color:white;
+    padding: 15px 7px;
+    font-size: 15px;
+    display: block;
+    text-decoration: none;
+}
+
+nav button.icon{
+    background-color: blue;
+    position: absolute;
+    top: 0;
+    right: 10px;
+}
+
+nav a:hover{
+    background-color: white;
+    color: blue;
+}
