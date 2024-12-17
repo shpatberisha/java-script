@@ -1,0 +1,16 @@
+.navbar-brand{
+    color: red;
+}
+
+.card {
+    display: grid;
+  }
+
+.grid-container{
+  justify-content: space-around;
+  display: flex;
+}
+
+
+
+
